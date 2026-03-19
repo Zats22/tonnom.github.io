@@ -1,0 +1,11 @@
+{
+  "name": "Chef IA",
+  "short_name": "Chef IA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F7F4",
+  "theme_color": "#1D9E75",
+  "icons": []
+}
